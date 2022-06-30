@@ -1,3 +1,7 @@
-# Passion Project 
-## Genshin Impact Stats Caculator
-I did this project for my Javascript class to demostrate my Javascript skill comobine with logic and function behind those stats. 
+# Genshin Impact Caculator
+
+## Link: http://itsmeleo.epizy.com/pet-project/genshin.html
+
+An application is used to calculate characters' stats for Genshin Impact mobile game automatically. This application demonstrates my logic skill by how each character level up. 
+
+### 🧑‍💻Method: HTML, Vanilla Javascript, CSS.
